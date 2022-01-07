@@ -148,7 +148,7 @@ h2 {
 /* Pricing */
 
 #pricing{
-    padding: 100px;
+    padding: 3% 5%;
     text-align: center;
 }
 .pricing-column {
@@ -169,7 +169,7 @@ h4 {
 
 
 }
-.h33 {
+.cta-heading {
     font-family: 'Montserrat', sans-serif;
     color: #fff;
     line-height: 1.5;
